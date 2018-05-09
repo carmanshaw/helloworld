@@ -9,5 +9,6 @@ int main()
 {
 	printf("Helloworld!\n");
 	add(1,2);
+	printf("push");
 	return 0;
 }
