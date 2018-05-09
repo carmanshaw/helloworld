@@ -11,5 +11,6 @@ int main()
 	add(1,2);
 	printf("push");
 	printf("123");
+	printf("1234");
 	return 0;
 }
